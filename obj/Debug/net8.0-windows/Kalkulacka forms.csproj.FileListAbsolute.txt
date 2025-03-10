@@ -1,0 +1,16 @@
+C:\Users\Husqy\source\repos\Kalkulacka forms\bin\Debug\net8.0-windows\Kalkulacka forms.exe
+C:\Users\Husqy\source\repos\Kalkulacka forms\bin\Debug\net8.0-windows\Kalkulacka forms.deps.json
+C:\Users\Husqy\source\repos\Kalkulacka forms\bin\Debug\net8.0-windows\Kalkulacka forms.runtimeconfig.json
+C:\Users\Husqy\source\repos\Kalkulacka forms\bin\Debug\net8.0-windows\Kalkulacka forms.dll
+C:\Users\Husqy\source\repos\Kalkulacka forms\bin\Debug\net8.0-windows\Kalkulacka forms.pdb
+C:\Users\Husqy\source\repos\Kalkulacka forms\obj\Debug\net8.0-windows\Kalkulacka_forms.Kalkulačka.resources
+C:\Users\Husqy\source\repos\Kalkulacka forms\obj\Debug\net8.0-windows\Kalkulacka forms.csproj.GenerateResource.cache
+C:\Users\Husqy\source\repos\Kalkulacka forms\obj\Debug\net8.0-windows\Kalkulacka forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Husqy\source\repos\Kalkulacka forms\obj\Debug\net8.0-windows\Kalkulacka forms.AssemblyInfoInputs.cache
+C:\Users\Husqy\source\repos\Kalkulacka forms\obj\Debug\net8.0-windows\Kalkulacka forms.AssemblyInfo.cs
+C:\Users\Husqy\source\repos\Kalkulacka forms\obj\Debug\net8.0-windows\Kalkulacka forms.csproj.CoreCompileInputs.cache
+C:\Users\Husqy\source\repos\Kalkulacka forms\obj\Debug\net8.0-windows\Kalkulacka forms.dll
+C:\Users\Husqy\source\repos\Kalkulacka forms\obj\Debug\net8.0-windows\refint\Kalkulacka forms.dll
+C:\Users\Husqy\source\repos\Kalkulacka forms\obj\Debug\net8.0-windows\Kalkulacka forms.pdb
+C:\Users\Husqy\source\repos\Kalkulacka forms\obj\Debug\net8.0-windows\Kalkulacka forms.genruntimeconfig.cache
+C:\Users\Husqy\source\repos\Kalkulacka forms\obj\Debug\net8.0-windows\ref\Kalkulacka forms.dll
